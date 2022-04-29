@@ -8,6 +8,9 @@ export function CloneMe({ title = 'Change-me' }: CloneMeProps) {
   return (
     <Styled.Wrapper>
       <h1>{title}</h1>
+      <h1>{title}</h1>
+      <h1>{title}</h1>
+      <h1>{title}</h1>
     </Styled.Wrapper>
   );
 }
